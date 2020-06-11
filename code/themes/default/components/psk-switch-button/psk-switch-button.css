@@ -1,0 +1,31 @@
+.left-container {
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+.status-container {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+    text-align: center;
+}
+
+.status-container h5 {
+    color: black;
+}
+
+.status-container psk-grid .row {
+    border: 0.0625rem solid #b75367;
+    border-radius: 2rem;
+    background-color: #b75367;
+}
+
+.white-background {
+    color: rgb(201, 201, 201);
+    background-color: white;
+    align-self: center;
+}
+
+.red-background {
+    color: white;
+    align-self: center;
+}
